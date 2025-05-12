@@ -2,7 +2,7 @@
 ![]()
 * This repository contains SQL-based insights and analysis for Danny’s Diner, aiming to understand customer behavior, menu popularity, and membership impacts.
 
-##⚠️ Problem Statement
+## ⚠️ Problem Statement
 * Who are the most frequent and high-spending customers?
 * What are the most popular menu items overall and per customer?
 * How does customer behavior change after joining the loyalty program?
