@@ -37,4 +37,4 @@
 * Re-engage inactive members with targeted offers based on past preferences.
 
 ## 🔗 Links
-###💼 [Linkedin Post]()
+###💼 [Linkedin Post](https://www.linkedin.com/posts/saswati-sadhu-37138b210_dannys-diner-sql-case-study-activity-7327766925361455105-S56p?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVy-EUBf5AAtPSXUsATy7XCrVfkrhC3XV0)
